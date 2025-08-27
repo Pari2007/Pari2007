@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey there!👋 I'm Pari Bhatnagar
+<i>Year 1 Student • Full-Stack Developer • Aspiring AI Research Scientist</i>
 <!--
 **Pari2007/Pari2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
