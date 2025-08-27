@@ -11,41 +11,36 @@ Welcome to my corner of GitHub! I'm that extroverted coder who believes the best
 🔬 Goal: Contributing to ML4SCI projects and broadening my research scope in AI<br>
 🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"<br>
 
-<header>🛠️ Tech Arsenal</header>
-
-Languages & Frameworks
+🛠️ Tech Arsenal<br>
+Languages & Frameworks<br>
 
 Python  •  JavaScript  •  TypeScript  •  Java  •  R  •  Dart
 React  •  React Native  •  Node.js  •  Flutter  •  PHP
-HTML/CSS  •  Tailwind CSS
+HTML/CSS  •  Tailwind CSS  •  SwiftUI
 
-AI/ML Focus
-🔥 PyTorch                  📊 scikit-learn
-⚡ JAX/Flax                 🏗️ TensorFlow 
-🐍 Python ML/DS Libraries   📈 Data Science Stack
+AI/ML Focus<br>
+🔥 PyTorch<br>               📊 scikit-learn<br>
+⚡ JAX/Flax <br>                🏗️ TensorFlow <br>
 
 🎯 Current Mission
 
-🧠 Learning: Advanced ML frameworks (JAX/Flax currently in focus)
-🔍 Seeking: Research opportunities in ML4SCI and AI applications
-🏗️ Building: Making my GitHub comeback with 98+ repositories to organize
-📝 Writing: Starting my AI research journey on Substack
+🧠 Learning: Advanced ML frameworks (JAX/Flax currently in focus)<br>
+🔍 Seeking: Research opportunities in ML4SCI and AI applications<br>
+🏗️ Building: AI Algorithms and Agents<br>
+🌌 Exploring : my interests in Exoplanets <br>
 
-🌟 Beyond the Codes and research papers, you'll find me:
+🌟 Beyond the Codes and research papers, you'll find me:<br>
 
-🏸 Smashing shuttlecocks on the badminton court
-💪 Lifting weights and hitting personal records at the gym
-🐎 Horse riding - because why not?
-📚 Reading Sherlock Holmes - obsessed
-✍️ Blogging about my journey in tech and beyond
+🏸 In the badminton court<br>
+💪 Hitting personal records at the gym<br>
+🐎 Horse riding - because why not?<br>
+📚 Reading Sherlock Holmes - obsessed<br>
+✍️ Blogging about my journey in tech and beyond<br>
 
-📝 Latest Blog Posts
+📝 Latest Blog Posts<br>
 <!-- BLOG-POST-LIST:START -->
-Coming soon... Starting my Substack journey!
+Coming soon... Starting my Substack journey!<br>
 <!-- BLOG-POST-LIST:END -->
-Connect with me!
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
-(https://www.linkedin.com/in/https://www.linkedin.com/in/pari-bhatnagar//) 
 
 <i>"The game is afoot!" ~ every problem has a solution waiting to be discovered. 🔍</i>
 
