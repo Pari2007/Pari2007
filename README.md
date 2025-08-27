@@ -11,14 +11,14 @@ Welcome to my corner of GitHub! I'm that extroverted coder who believes the best
 🔬 Goal: Contributing to ML4SCI projects and broadening my research scope in AI<br>
 🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"<br>
 
-🛠️ Tech Arsenal<br>
+🛠️ Tech Arsenal<br><br>
 Languages & Frameworks<br>
 
 Python  •  JavaScript  •  TypeScript  •  Java  •  R  •  Dart
 React  •  React Native  •  Node.js  •  Flutter  •  PHP
 HTML/CSS  •  Tailwind CSS  •  SwiftUI
 
-AI/ML Focus<br>
+AI/ML Focus<br><br>
 🔥 PyTorch<br>               📊 scikit-learn<br>
 ⚡ JAX/Flax <br>                🏗️ TensorFlow <br>
 
