@@ -1,7 +1,7 @@
 ## Hey there!👋 I'm Pari Bhatnagar
 <i>Year 1 Student • Full-Stack Developer • Aspiring AI Research Scientist</i>
 <p>
-Welcome to my corner of GitHub! I'm that extroverted coder who believes the best innovations happen when curiosity meets caffeine ☕
+Welcome to my corner of GitHub!My curiosity always end up meeting the dangerous phrase 'I wonder what happens if...'" 🤔
 </p>
 
 🚀 About Me
