@@ -44,6 +44,8 @@ AI/ML Focus
 Coming soon... Starting my Substack journey!
 <!-- BLOG-POST-LIST:END -->
 Connect with me!
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
+(https://www.linkedin.com/in/https://www.linkedin.com/in/pari-bhatnagar//) 
 
 <i>"The game is afoot!" ~ every problem has a solution waiting to be discovered. 🔍</i>
 
