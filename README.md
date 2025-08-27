@@ -4,12 +4,12 @@
 Welcome to my corner of GitHub! I'm that extroverted coder who believes the best innovations happen when curiosity meets caffeine ☕
 </p>
 
-<header>🚀 About Me</header>
+🚀 About Me
 
-🎓 Currently: Year 1 Student diving deep into the world of AI, Data Science and Machine Learning
-💻 Journey: From full-stack development to AI research - because why limit yourself to one dimension?
-🔬 Goal: Contributing to ML4SCI projects and broadening my research scope in AI
-🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"
+🎓 Currently: Year 1 Student diving deep into the world of AI, Data Science and Machine Learning<br>
+💻 Journey: From full-stack development to AI research - because why limit yourself to one dimension?<br>
+🔬 Goal: Contributing to ML4SCI projects and broadening my research scope in AI<br>
+🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"<br>
 
 <header>🛠️ Tech Arsenal</header>
 
