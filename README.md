@@ -8,7 +8,6 @@ Welcome to my corner of GitHub!My curiosity always end up meeting the dangerous 
 
 🎓 Currently: Year 1 Student diving deep into the world of AI, Data Science and Machine Learning<br>
 💻 Journey: From full-stack development to AI research - because why limit yourself to one dimension?<br>
-🔬 Goal: Contributing to ML4SCI projects and broadening my research scope in AI<br>
 🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"<br>
 
 🛠️ Tech Arsenal<br><br>
@@ -25,9 +24,9 @@ AI/ML Focus<br><br>
 🎯 Current Mission
 
 🧠 Learning: Advanced ML frameworks (JAX/Flax currently in focus)<br>
-🔍 Seeking: Research opportunities in ML4SCI and AI applications<br>
+🔍 Seeking: Research opportunities in AI applications<br>
 🏗️ Building: AI Algorithms and Agents<br>
-🌌 Exploring : my interests in Exoplanets <br>
+🌌 Exploring : my interests in core Scientific domains <br>
 
 🌟 Beyond the Codes and research papers, you'll find me:<br>
 
