@@ -1,12 +1,12 @@
 ## Hey there!👋 I'm Pari Bhatnagar
-<i>Year 1 Student • Full-Stack Developer • Aspiring AI Research Scientist</i>
+<i>Year 2 Student • Full-Stack Developer • Aspiring AI Research Scientist</i>
 <p>
 Welcome to my corner of GitHub!My curiosity always end up meeting the dangerous phrase 'I wonder what happens if...'" 🤔
 </p>
 
 🚀 About Me
 
-🎓 Currently: Year 1 Student diving deep into the world of AI, Data Science and Machine Learning<br>
+🎓 Currently: Year 2 Student, 10 pointer GPA diving deep into the world of AI, Data Science and Machine Learning<br>
 💻 Journey: From full-stack development to AI research - because why limit yourself to one dimension?<br>
 🌟 Personality: That person who isn't afraid to ask "but what if we tried this instead?"<br>
 
